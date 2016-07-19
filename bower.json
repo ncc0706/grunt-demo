@@ -1,0 +1,23 @@
+{
+  "name": "grunt-demo",
+  "description": "grunt快速入门",
+  "main": "index.js",
+  "authors": [
+    "ncc0706"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "grunt"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.2.0"
+  }
+}
